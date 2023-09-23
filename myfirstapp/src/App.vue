@@ -1,0 +1,16 @@
+<script setup>
+import HelloWorld from './components/HelloWorld.vue'
+import TheWelcome from './components/TheWelcome.vue'
+import MyPage from './components/MyPage.vue';
+import myfirstpage from './pages/myfirstpage.vue';
+import mysecondpage from './pages/mysecondpage.vue';
+
+</script>
+
+<template>
+  <mysecondpage/>
+</template>
+
+<style scoped>
+
+</style>
